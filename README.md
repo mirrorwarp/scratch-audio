@@ -1,4 +1,4 @@
-# TurboWarp/scratch-audio
+# MirrorWarp/scratch-audio
 
 A slightly modified drop-in replacement for scratch-audio.
 
